@@ -1,4 +1,4 @@
-# CS-Lab-2
+# CS201-Lab-2
 In Lab 2, I used different classes to build code in my main method and learned how to intergrate the Date method into my project.
 
 # What I Learned
